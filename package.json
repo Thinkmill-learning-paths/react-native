@@ -1,0 +1,30 @@
+{
+	"name": "TODO:name-of-path",
+	"description": "TODO:description",
+	"version": "1.0.0",
+	"private": true,
+	"author": {},
+	"contributors": [],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/Thinkmill-learning-paths/TODO:repo-name.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Thinkmill-learning-paths/TODO:repo-name/issues"
+	},
+	"licenses": [
+		{
+			"type": "GPL-3.0",
+			"url": "https://github.com/Thinkmill-learning-paths/TODO:repo-name/blob/main/LICENSE"
+		}
+	],
+	"license": "GPL-3.0",
+	"scripts": {
+		"format": "prettier --write \"**/*.{js,md,mdx,json,html}\"",
+		"nuke": "rm -rf node_modules && rm yarn.lock"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"prettier": "^2.1.2"
+	}
+}
