@@ -1,10 +1,10 @@
-# TODO:name-of-path
+# React Native
 
-> TODO:description
+> Learn how to run and build a React Native project
 
 ## Owner
 
-TODO:owner
+@elisechant
 
 ## Content
 
@@ -13,3 +13,7 @@ TODO:owner
 - [Step 3 - Name of step](step3/)
 
 ## Graduates
+
+## Support
+
+Raise Github Issue, or feel welcome to reach out in Slack at [#learing-paths-react-native](https://join.slack.com/share/zt-ivh3fkw6-CkmI3abKz1UYTAfxl0v3FQ)
