@@ -5,7 +5,7 @@
 ## Owners
 
 <div style="display:block;">
-  <div style="display: inline-block;">[<img src="https://avatars1.githubusercontent.com/u/2195815?s=60&v=4" /><br /><sub><b>Elise Chant</b></sub>](https://github.com/elisechant)</div>
+  <div style="display: inline-block;"><img alt="Elise Chant" src="https://avatars1.githubusercontent.com/u/2195815?s=60&v=4" /><br /><sub><b>Elise Chant</b></sub></div>
 </div>
 
 ## Content
