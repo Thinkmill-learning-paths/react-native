@@ -30,6 +30,7 @@
 - [Step 2 - Styling](step2/)
 - [Step 3 - Data management](step3/)
 - [Step 4 - Platform features](step4/)
+- [Step 5 - Plugins - Navigation](step5/)
 - [Step 5 - Plugins](step5/)
 
 ## Content not covered
