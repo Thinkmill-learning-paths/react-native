@@ -2,7 +2,7 @@
 
 > Understand how to think in React Native, and learn how to run, build and develop a React Native project
 
-## Owners
+## Contributors
 
 <div style="display:block;">
   <div style="display: inline-block;"><img alt="Elise Chant" src="https://avatars1.githubusercontent.com/u/2195815?s=60&v=4" /><br /><sub><b>Elise Chant</b></sub></div>
@@ -23,15 +23,17 @@
 - [Foundation 6 - Create a new project - Expo](foundation6/)
 - [Foundation 7 - Running a dev loop](foundation7/)
 - [Foundation 8 - Build and share](foundation8/)
+- [Foundation 9 - Adding plugins](foundation8/)
 
 ### Steps
 
-- [Step 1 - Platform Components](step1/)
-- [Step 2 - Styling](step2/)
-- [Step 3 - Data management](step3/)
-- [Step 4 - Platform features](step4/)
-- [Step 5 - Plugins - Navigation](step5/)
-- [Step 5 - Plugins](step5/)
+- [Step 1 - Platform Components](step1-platform-components/)
+- [Step 3 - Styling](step3-styling/)
+- [Step 5 - Plugins - Navigation](step4/)
+- [Step 2 - Plugin - Components](step2-plugin-components/)
+- [Step 4 - Platform features](step3/)
+- [Step 6 - Data Persistence](step5/)
+- [Step 7 - Plugins](step6/)
 
 ## Content not covered
 

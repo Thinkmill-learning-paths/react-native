@@ -1,6 +1,6 @@
 # React Native
 
-## Step 2 - Styling
+## Step 3 - Styling
 
 React Native has a different styling engine to the browser that has a subset of CSS available. Most notably, layout is driven entirely by flexbox as there is no box model.
 
@@ -19,6 +19,8 @@ Use this heading text: Lorem ipsum
 
 Vertically center the heading text to the image.
 
+[TODO: insert picture]
+
 ### Task 3
 
 Add description text below the heading. Add a scroll region to the card body and set the card body height to 40px.
@@ -29,3 +31,5 @@ In publishing and graphic design, Lorem ipsum is a placeholder text commonly use
 It may also be used to temporarily replace copy in a process called greeking, which allows designers to consider form without the meaning of the text influencing the design.
 
 Lorem ipsum is typically a corrupted version of De finibus bonorum et malorum, a first-century BC text by the Roman statesman and philosopher Cicero, with words altered, added, and removed to make it nonsensical, improper Latin.
+
+[TODO: insert picture]

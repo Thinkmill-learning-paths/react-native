@@ -4,3 +4,6 @@
 
 - Exceptions
 - Offline-ness
+
+- Data persistence
+- Styling
