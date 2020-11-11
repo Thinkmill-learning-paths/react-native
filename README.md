@@ -28,12 +28,11 @@
 ### Steps
 
 - [Step 1 - Platform Components](step1-platform-components/)
+- [Step 2 - Platform API's](step2-platform-apis/)
 - [Step 3 - Styling](step3-styling/)
-- [Step 5 - Plugins - Navigation](step4/)
-- [Step 2 - Plugin - Components](step2-plugin-components/)
-- [Step 4 - Platform features](step3/)
-- [Step 6 - Data Persistence](step5/)
-- [Step 7 - Plugins](step6/)
+- [Step 4 - Plugins - Components](step4-plugins-components/)
+- [Step 5 - Plugins - Navigation](step5-plugins-navigation/)
+- [Step 6 - Plugins - Data Management](step6-plugins-data-management/)
 
 ## Content not covered
 

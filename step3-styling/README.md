@@ -6,20 +6,20 @@ React Native has a different styling engine to the browser that has a subset of 
 
 > 📘 View React Native's - [Style documentation](https://reactnative.dev/docs/style)
 
-### Task 1
+### Task 1 - Layout
 
-Create a new card item, with the image on the left, and a heading on the right.
+Create a new card component showing an image on the left, and a heading on the right.
 
 Use this image: /assets/40x40.png
 Use this heading text: Lorem ipsum
 
-[TODO: insert picture - listing]
+### Task 2
+
+Add a 1px grey border to the card outline. Make the borders rounded by 5px.
 
 ### Task 2
 
 Vertically center the heading text to the image.
-
-[TODO: insert picture]
 
 ### Task 3
 
@@ -32,4 +32,12 @@ It may also be used to temporarily replace copy in a process called greeking, wh
 
 Lorem ipsum is typically a corrupted version of De finibus bonorum et malorum, a first-century BC text by the Roman statesman and philosopher Cicero, with words altered, added, and removed to make it nonsensical, improper Latin.
 
-[TODO: insert picture]
+### Task 4
+
+Set a dynamic max-height for the card, which is 300px shorter than screen height in portrait mode or 100px shorter in landscape mode.
+
+### Task 5 - theme
+
+Create a file called "theme" which will contain design tokens. Include tokens for primary colour and a large font size.
+
+Create a view containing a large primary button with text "Buy now".

@@ -1,10 +1,12 @@
 # React Native
 
-## Step 5 - Plugins Components
+## Step 5 - Plugins - Components
 
-> To learn about how to add plugins, read more at [Foundation 9 - Adding plugins], or refer to React Native's official docs - [Using Libraries](https://reactnative.dev/docs/libraries)
+> Recommended reading - [Foundation 9 - Adding plugins](@todo - link)
 
-> Plugins can be found at npm or at React Native's dedicated directory [reactnative.directory](https://reactnative.directory/)
+> 📘 React Native docs - [Using Libraries](https://reactnative.dev/docs/libraries)
+
+Plugins can be found at [npm](https://www.npmjs.com/) or at React Native's dedicated directory [reactnative.directory](https://reactnative.directory/).
 
 ### Task 1 - Maps
 
@@ -20,6 +22,8 @@ Install [react-native-geolocation](https://github.com/react-native-geolocation/r
 ### Task 3 - Webview
 
 Install [react-native-htmlview](https://github.com/jsdf/react-native-htmlview) and render Thinkmill's website a webview.
+
+Url: https://www.thinkmill.com.au/
 
 ### Task 4 - SVG
 

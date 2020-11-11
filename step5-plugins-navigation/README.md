@@ -2,11 +2,9 @@
 
 ## Step 5 - Plugins - Navigation
 
-> 📘 View React Native's - [Navigating between screens](https://reactnative.dev/docs/navigation)
+> 📘 React Native docs - [Navigating between screens](https://reactnative.dev/docs/navigation)
 
-> To learn about how to add plugins, read more at [Foundation 9 - Adding plugins], or refer to React Native's official docs - [Using Libraries](https://reactnative.dev/docs/libraries)
-
-There are several navigation plugins that you can use, however, you probably want React Navigation.
+There are several navigation plugins that you can use, however, you probably want [React Navigation](https://reactnavigation.org/.
 
 ### BeforeEach
 
