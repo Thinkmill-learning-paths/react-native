@@ -6,7 +6,7 @@
 
 There are several navigation plugins that you can use, however, you probably want [React Navigation](https://reactnavigation.org/.
 
-### BeforeEach
+### Before Each
 
 Install [React Navigation](https://reactnative.dev/docs/navigation#installation-and-setup).
 
@@ -14,10 +14,11 @@ Install [React Navigation](https://reactnative.dev/docs/navigation#installation-
 
 Create a Tab Navigator UI.
 
+```
 Routes:
-
 - Default route: Home (/)
 - Route: Posts (/posts)
+```
 
 Requirements:
 
@@ -29,10 +30,11 @@ Requirements:
 
 Create a Stack Navigator UI.
 
+```
 Routes:
-
 - Default route: Posts (/)
 - Route: Post (/posts/\$id)
+```
 
 Requirements:
 
@@ -45,11 +47,12 @@ Requirements:
 
 This task builds on Task 1 and Task 2. The task is to create a Tab Navigator with a nested Stack Navigator.
 
+```
 Routes:
-
 - Default route: Home (/)
 - Route: Posts (/posts)
 - Route: Post (/posts/\$id)
+```
 
 Requirements:
 
@@ -60,11 +63,12 @@ Requirements:
 
 Create a Drawer Navigator UI.
 
+```
 Routes:
-
 - Default route: Home (/)
 - Route: Settings (/settings)
 - Route: About (/about)
+```
 
 Requirements:
 
@@ -74,14 +78,15 @@ Requirements:
 
 This task builds on all of the above tasks. The task is to create a Drawer Navigator, with a nested Tab Navigator, which has a nested Stack Navigator.
 
+```
 Routes:
-
 - Default route: Home (/)
 - Route: Posts (/posts)
 - Route: Post (/posts/\$id)
 - Route: Credits (/credits)
 - Route: Settings (/settings)
 - Route: About (/about)
+```
 
 Requirements:
 
@@ -91,10 +96,15 @@ Requirements:
 
 ### Task 5 - Onboarding flow
 
-Create an app that when opened launches a 3 screen Onboarding Flow using Stack Navigator. The last page in the Onboarding Flow should open a tab navigator.
+Create an app that when opened launches a 3 screen Onboarding Flow. After the Onboarding Flow, open Home.
 
+On Home, there should be Tabs "Home" and "About".
+
+```
 Routes:
-
 - Route: Onboarding (/onboarding/\$id)
 - Default route: Home (/)
 - Route: About (/about)
+```
+
+Verify this works by hard-coding a flag `hasOnboarded`, toggle this to true or false and test it is working by force closing and reopening the app. If the user has onboarded, the expectation is that the app should start from Home, else the app should start from Onboarding.

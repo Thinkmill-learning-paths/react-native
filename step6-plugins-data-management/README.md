@@ -2,16 +2,17 @@
 
 ## Step 6 - Plugins - Data management
 
-> Recommended reading - [Foundation 2 - Key differences to Web](@todo - link)
-
 > 📘 React Native docs - [Security](https://reactnative.dev/docs/security)
 
 ### Task 1 - App wide state
 
 Create a project with some basic routing set up using React Navigation.
 
+```
+Routes:
 Default routes: Home (/)
 Route: Success (/success)
+```
 
 On Home route, show text at the top of the screen saying "Welcome %firstName %lastName." If firstName or lastName as undefined, instead say "Welcome friend". Below, create a form with a submit button and inputs for first name and last name fields.
 
