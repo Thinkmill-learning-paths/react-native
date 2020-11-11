@@ -4,26 +4,10 @@
 
 ## Contributors
 
-<div>
-  <div style="display: inline-block; margin-right: 1em;">
-    <a href="https://github.com/elisechant">
-      <img style="border-radius: 100%; height: 60px; width: 60px;" alt="Elise Chant" src="https://avatars1.githubusercontent.com/u/2195815?s=60&v=4" />
-    </a>
-    <br /><sub><b>Elise Chant</b></sub>
-  </div>
-  <div style="display: inline-block; margin-right: 1em;">
-    <a href="https://github.com/nathsimpson">
-      <img style="border-radius: 100%; height: 60px; width: 60px;" alt="Nathan Simpson" src="https://avatars1.githubusercontent.com/u/12689383?s=96&v=4" />
-    </a>
-    <br /><sub><b>Nathan Simpson</b></sub>
-  </div>
-</div>
+- @elisechant
+- @nathsimpson
 
 ## Content
-
-Foundations are optional and can be thought more of a reference. Feel welcome to open a PR to add to or improve the content.
-
-The React Native Learning Path is comprised of Steps under heading "Learning Path" below.
 
 ### Foundation 1 - Thinking in React Native [Optional]
 
@@ -49,8 +33,6 @@ The React Native Learning Path is comprised of Steps under heading "Learning Pat
 - [Step 6 - Plugins - AsyncStorage](step6-plugins-data-management/)
 
 ## Content not covered
-
-The following content is not covered but could be. Feel welcome to open a PR to create this content or extend this list.
 
 - Continuous integration
 - Publishing to App Store or Play Store
