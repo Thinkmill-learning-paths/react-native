@@ -29,8 +29,8 @@
 - [Step 2 - Native API's](step2-native-apis/)
 - [Step 3 - Styling](step3-styling/)
 - [Step 4 - Plugins - Components](step4-plugins-components/)
-- [Step 5 - Plugins - React Navigation](step5-plugins-navigation/)
-- [Step 6 - Plugins - AsyncStorage](step6-plugins-data-management/)
+- [Step 5 - Plugins - React Navigation](step5-plugins-react-navigation/)
+- [Step 6 - Plugins - AsyncStorage](step6-plugins-asyncstorage/)
 
 ## Content not covered
 
