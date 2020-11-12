@@ -27,6 +27,6 @@ import { View, Text } from 'react-native';
 const App = () => (
   <View>
     <Text>Hello world</p>
-  </div>
+  </View>
 )
 ```
