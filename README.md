@@ -44,7 +44,7 @@ Feel welcome to open PR's against this repo to correct, add or extend content.
 
 ## Bonus - Guides
 
-Find Guides at /guides. These might be a helpful reference when you are building production apps.
+Find Guides at [/guides](guides/). These might be a helpful reference when you are building production apps.
 
 ## Graduates
 
