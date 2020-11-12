@@ -2,10 +2,14 @@
 
 > Understand how to think in React Native, and learn how to run, build and develop a React Native project
 
-## Contributors
+## Owners
 
 - @elisechant
 - @nathsimpson
+
+## Contributions
+
+Feel welcome to open PR's against this repo to correct, add or extend content.
 
 ## Content
 
@@ -37,6 +41,10 @@
 - Continuous integration
 - Publishing to App Store or Play Store
 - Universal apps, such as React Native Web
+
+## Bonus - Guides
+
+Find Guides at /guides. These might be a helpful reference when you are building production apps.
 
 ## Graduates
 
